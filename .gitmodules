@@ -26,3 +26,6 @@
 [submodule "vim/bundle/vim-javascript"]
 	path = vim/bundle/vim-javascript
 	url = git://github.com/pangloss/vim-javascript.git
+[submodule "rbenv"]
+	path = rbenv
+	url = git@github.com:sstephenson/rbenv.git
